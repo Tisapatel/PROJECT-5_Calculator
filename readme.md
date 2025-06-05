@@ -5,7 +5,7 @@
 
  🖥️ Live Demo
  
-Check out the live demo : project-5-calculator-egqv.vercel.app
+Check out the live demo : https://project-5-calculator-egqv.vercel.app/
 
 📘 Project Documentation: Stylish Calculator
 
