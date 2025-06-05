@@ -1,5 +1,5 @@
 
- 📘 Project Documentation: Calculator
+ 📘 Project Documentation: Calculator Project
  
  ![Screenshot 2025-06-05 195319](https://github.com/user-attachments/assets/3234ad82-a357-4be5-8abc-5ca758a261c9)
 
@@ -7,7 +7,7 @@
  
 Check out the live demo : https://project-5-calculator-egqv.vercel.app/
 
-📘 Project Documentation: Stylish Calculator
+📘 Project Documentation: Calculator
 
 📌 1. Project Overview
       - Short description of the project
