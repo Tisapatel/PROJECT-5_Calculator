@@ -54,11 +54,14 @@ Check out the live demo : https://project-5-calculator-egqv.vercel.app/
       - Final thoughts on usability and design
 
 📦 8. Final Structure Example
+
       Calculator/
             ├── index.html
             ├── style.css
             ├── script.js
             ├── light.jpg
-            └── README.md   ✅ ← Your documentation
+            └── README.md   
  
  
+
+
